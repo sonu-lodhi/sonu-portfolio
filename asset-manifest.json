@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/sonu-portfolio/static/css/main.b3114cb8.css",
-    "main.js": "/sonu-portfolio/static/js/main.0a32c3d6.js",
+    "main.css": "/sonu-portfolio/static/css/main.af797bba.css",
+    "main.js": "/sonu-portfolio/static/js/main.a40baf21.js",
     "static/js/787.18271493.chunk.js": "/sonu-portfolio/static/js/787.18271493.chunk.js",
     "static/media/cleaning-services-01.png": "/sonu-portfolio/static/media/cleaning-services-01.0ee3c25fedb23fcb2ad0.png",
+    "static/media/profile.png": "/sonu-portfolio/static/media/profile.2dc85bdba9d0f86a5de3.png",
+    "static/media/logo.svg": "/sonu-portfolio/static/media/logo.b7e112ae9e63f311ff32f16f53030a04.svg",
     "index.html": "/sonu-portfolio/index.html",
-    "main.b3114cb8.css.map": "/sonu-portfolio/static/css/main.b3114cb8.css.map",
-    "main.0a32c3d6.js.map": "/sonu-portfolio/static/js/main.0a32c3d6.js.map",
+    "main.af797bba.css.map": "/sonu-portfolio/static/css/main.af797bba.css.map",
+    "main.a40baf21.js.map": "/sonu-portfolio/static/js/main.a40baf21.js.map",
     "787.18271493.chunk.js.map": "/sonu-portfolio/static/js/787.18271493.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3114cb8.css",
-    "static/js/main.0a32c3d6.js"
+    "static/css/main.af797bba.css",
+    "static/js/main.a40baf21.js"
   ]
 }
