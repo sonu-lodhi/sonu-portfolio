@@ -1,18 +1,37 @@
 {
   "files": {
-    "main.css": "/sonu-portfolio/static/css/main.af797bba.css",
-    "main.js": "/sonu-portfolio/static/js/main.a40baf21.js",
+    "main.css": "/sonu-portfolio/static/css/main.7bfa72d0.css",
+    "main.js": "/sonu-portfolio/static/js/main.d004df8a.js",
     "static/js/787.18271493.chunk.js": "/sonu-portfolio/static/js/787.18271493.chunk.js",
+    "static/media/p16.png": "/sonu-portfolio/static/media/p16.6458723e0344920f674a.png",
+    "static/media/p71.png": "/sonu-portfolio/static/media/p71.a466e54f1f0e33235167.png",
+    "static/media/p57.png": "/sonu-portfolio/static/media/p57.28c647e90167b030e2bd.png",
+    "static/media/p55.png": "/sonu-portfolio/static/media/p55.1236deaf403891af074f.png",
+    "static/media/p6.png": "/sonu-portfolio/static/media/p6.a6c2b4fa8092412a8933.png",
+    "static/media/d14.png": "/sonu-portfolio/static/media/d14.b9405e34184c1f570238.png",
+    "static/media/p9.png": "/sonu-portfolio/static/media/p9.b2860ab957d1e1b8d61a.png",
+    "static/media/d8.png": "/sonu-portfolio/static/media/d8.1290b3feded954d37f34.png",
+    "static/media/ahq-product-page-1536x832.png": "/sonu-portfolio/static/media/ahq-product-page-1536x832.c0e2cf1d3d7f02ee95f0.png",
+    "static/media/d2.png": "/sonu-portfolio/static/media/d2.b4c38158ecfcbae06400.png",
     "static/media/cleaning-services-01.png": "/sonu-portfolio/static/media/cleaning-services-01.0ee3c25fedb23fcb2ad0.png",
+    "static/media/AHQ-test-script.jpg": "/sonu-portfolio/static/media/AHQ-test-script.6bc6c3adba2082e28a93.jpg",
+    "static/media/login-page.png": "/sonu-portfolio/static/media/login-page.5784043f6b81397c6bb8.png",
+    "static/media/ahq-dashboard.jpg": "/sonu-portfolio/static/media/ahq-dashboard.82c5fcd48ef2e3b9cbda.jpg",
     "static/media/profile.png": "/sonu-portfolio/static/media/profile.2dc85bdba9d0f86a5de3.png",
+    "static/media/p56.png": "/sonu-portfolio/static/media/p56.d48bfa183f97627fc138.png",
+    "static/media/TestBots.jpeg": "/sonu-portfolio/static/media/TestBots.a97f7cb589b401cc39aa.jpeg",
+    "static/media/Test-Reports.jpeg": "/sonu-portfolio/static/media/Test-Reports.5641b8d2453ea4ac24d3.jpeg",
+    "static/media/TAAS-horizontal-final-1536x792.jpg": "/sonu-portfolio/static/media/TAAS-horizontal-final-1536x792.f284be0e9f887d7bcf3b.jpg",
+    "static/media/im1.png": "/sonu-portfolio/static/media/im1.4a6f27bdd563e50dc26f.png",
+    "static/media/samagri_chart.png": "/sonu-portfolio/static/media/samagri_chart.4a245ca6c45d1b1ff41c.png",
     "static/media/logo.svg": "/sonu-portfolio/static/media/logo.b7e112ae9e63f311ff32f16f53030a04.svg",
     "index.html": "/sonu-portfolio/index.html",
-    "main.af797bba.css.map": "/sonu-portfolio/static/css/main.af797bba.css.map",
-    "main.a40baf21.js.map": "/sonu-portfolio/static/js/main.a40baf21.js.map",
+    "main.7bfa72d0.css.map": "/sonu-portfolio/static/css/main.7bfa72d0.css.map",
+    "main.d004df8a.js.map": "/sonu-portfolio/static/js/main.d004df8a.js.map",
     "787.18271493.chunk.js.map": "/sonu-portfolio/static/js/787.18271493.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.af797bba.css",
-    "static/js/main.a40baf21.js"
+    "static/css/main.7bfa72d0.css",
+    "static/js/main.d004df8a.js"
   ]
 }
