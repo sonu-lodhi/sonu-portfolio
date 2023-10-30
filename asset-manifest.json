@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sonu-portfolio/static/css/main.11050445.css",
-    "main.js": "/sonu-portfolio/static/js/main.b1f3a8cc.js",
+    "main.js": "/sonu-portfolio/static/js/main.b53a5171.js",
     "static/js/787.18271493.chunk.js": "/sonu-portfolio/static/js/787.18271493.chunk.js",
     "static/media/JavaBasic.png": "/sonu-portfolio/static/media/JavaBasic.9110c313c21611f04566.png",
     "static/media/p16.png": "/sonu-portfolio/static/media/p16.6458723e0344920f674a.png",
@@ -31,20 +31,40 @@
     "static/media/Test-Reports.jpeg": "/sonu-portfolio/static/media/Test-Reports.5641b8d2453ea4ac24d3.jpeg",
     "static/media/Data_Analytics_Foundations.png": "/sonu-portfolio/static/media/Data_Analytics_Foundations.69aa7405d2e76c4a38a9.png",
     "static/media/TAAS-horizontal-final-1536x792.jpg": "/sonu-portfolio/static/media/TAAS-horizontal-final-1536x792.f284be0e9f887d7bcf3b.jpg",
+    "static/media/successful-raised-complaints.png": "/sonu-portfolio/static/media/successful-raised-complaints.6445af57d8735d4094c8.png",
     "static/media/im1.png": "/sonu-portfolio/static/media/im1.4a6f27bdd563e50dc26f.png",
+    "static/media/Incidents-details.png": "/sonu-portfolio/static/media/Incidents-details.7603240322eff3f8d5b8.png",
+    "static/media/Incidents-details1.png": "/sonu-portfolio/static/media/Incidents-details1.c5e07dfc690baf7fd277.png",
+    "static/media/Admin-Dashboard.png": "/sonu-portfolio/static/media/Admin-Dashboard.74e875c18839655baac7.png",
+    "static/media/Customer-Dashboard.png": "/sonu-portfolio/static/media/Customer-Dashboard.831a5d100580f0d96c90.png",
+    "static/media/Raising-complaints.png": "/sonu-portfolio/static/media/Raising-complaints.0caad1e27662e6246c55.png",
+    "static/media/questions-for-the-expert.png": "/sonu-portfolio/static/media/questions-for-the-expert.38dccea2c0ffeaa7e7d8.png",
     "static/media/C C++.png": "/sonu-portfolio/static/media/C C++.9791bb744bc36ca98bee.png",
     "static/media/R1.png": "/sonu-portfolio/static/media/R1.1e65568806b15658fdee.png",
     "static/media/samagri_chart.png": "/sonu-portfolio/static/media/samagri_chart.4a245ca6c45d1b1ff41c.png",
+    "static/media/Customer-Registration.png": "/sonu-portfolio/static/media/Customer-Registration.1ac9fa15b086bab4ae7c.png",
+    "static/media/answer-by-the-expert.png": "/sonu-portfolio/static/media/answer-by-the-expert.29e76aa14b1b128bd72f.png",
+    "static/media/Customer-List.png": "/sonu-portfolio/static/media/Customer-List.73df8c79ce9634b1c49d.png",
+    "static/media/Expert-Login.png": "/sonu-portfolio/static/media/Expert-Login.23da129a8bf6231eb8fc.png",
+    "static/media/questions-asked-by-customer.png": "/sonu-portfolio/static/media/questions-asked-by-customer.718d873d80aeb1dabea1.png",
+    "static/media/answers-to-the-customer.png": "/sonu-portfolio/static/media/answers-to-the-customer.c299c1c54fdc17927434.png",
+    "static/media/Customer-Login.png": "/sonu-portfolio/static/media/Customer-Login.b32b1b9f94f4b97200b4.png",
+    "static/media/Home.png": "/sonu-portfolio/static/media/Home.1d877783d69519d4590f.png",
+    "static/media/Verification-Message.png": "/sonu-portfolio/static/media/Verification-Message.699313111d1ea2fe89f7.png",
+    "static/media/admin-login.png": "/sonu-portfolio/static/media/admin-login.0fab8afb41ec4f583516.png",
+    "static/media/Customer-Dashboard-posting-questions.png": "/sonu-portfolio/static/media/Customer-Dashboard-posting-questions.3e817d0825004d76c38e.png",
+    "static/media/All-Customer-Incidents.png": "/sonu-portfolio/static/media/All-Customer-Incidents.874041c4fc28f42116a6.png",
+    "static/media/All-Expert-Incidents.png": "/sonu-portfolio/static/media/All-Expert-Incidents.2961d90711765f856f17.png",
     "static/media/jira-2.png": "/sonu-portfolio/static/media/jira-2.1b7f85f57d8ade0297c6.png",
     "static/media/logo.svg": "/sonu-portfolio/static/media/logo.b7e112ae9e63f311ff32f16f53030a04.svg",
     "static/media/white-logo.svg": "/sonu-portfolio/static/media/white-logo.71215e9f39facf41ce2c0e3353a458f5.svg",
     "index.html": "/sonu-portfolio/index.html",
     "main.11050445.css.map": "/sonu-portfolio/static/css/main.11050445.css.map",
-    "main.b1f3a8cc.js.map": "/sonu-portfolio/static/js/main.b1f3a8cc.js.map",
+    "main.b53a5171.js.map": "/sonu-portfolio/static/js/main.b53a5171.js.map",
     "787.18271493.chunk.js.map": "/sonu-portfolio/static/js/787.18271493.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.11050445.css",
-    "static/js/main.b1f3a8cc.js"
+    "static/js/main.b53a5171.js"
   ]
 }
