@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sonu-portfolio/static/css/main.c5f203cc.css",
-    "main.js": "/sonu-portfolio/static/js/main.f8b06b53.js",
+    "main.css": "/sonu-portfolio/static/css/main.0f11254e.css",
+    "main.js": "/sonu-portfolio/static/js/main.3d60d4e3.js",
     "static/js/787.18271493.chunk.js": "/sonu-portfolio/static/js/787.18271493.chunk.js",
     "static/media/JavaBasic.png": "/sonu-portfolio/static/media/JavaBasic.9110c313c21611f04566.png",
     "static/media/p16.png": "/sonu-portfolio/static/media/p16.6458723e0344920f674a.png",
@@ -59,12 +59,12 @@
     "static/media/logo.svg": "/sonu-portfolio/static/media/logo.b7e112ae9e63f311ff32f16f53030a04.svg",
     "static/media/white-logo.svg": "/sonu-portfolio/static/media/white-logo.71215e9f39facf41ce2c0e3353a458f5.svg",
     "index.html": "/sonu-portfolio/index.html",
-    "main.c5f203cc.css.map": "/sonu-portfolio/static/css/main.c5f203cc.css.map",
-    "main.f8b06b53.js.map": "/sonu-portfolio/static/js/main.f8b06b53.js.map",
+    "main.0f11254e.css.map": "/sonu-portfolio/static/css/main.0f11254e.css.map",
+    "main.3d60d4e3.js.map": "/sonu-portfolio/static/js/main.3d60d4e3.js.map",
     "787.18271493.chunk.js.map": "/sonu-portfolio/static/js/787.18271493.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5f203cc.css",
-    "static/js/main.f8b06b53.js"
+    "static/css/main.0f11254e.css",
+    "static/js/main.3d60d4e3.js"
   ]
 }
