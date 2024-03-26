@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sonu-portfolio/static/css/main.7e541609.css",
-    "main.js": "/sonu-portfolio/static/js/main.e3b72c7c.js",
+    "main.js": "/sonu-portfolio/static/js/main.a20c4de2.js",
     "static/js/787.18271493.chunk.js": "/sonu-portfolio/static/js/787.18271493.chunk.js",
     "static/media/JavaBasic.png": "/sonu-portfolio/static/media/JavaBasic.9110c313c21611f04566.png",
     "static/media/ci1.png": "/sonu-portfolio/static/media/ci1.c3350770dede2a854766.png",
@@ -23,9 +23,9 @@
     "static/media/cleaning-services-01.png": "/sonu-portfolio/static/media/cleaning-services-01.0ee3c25fedb23fcb2ad0.png",
     "static/media/AHQ-test-script.jpg": "/sonu-portfolio/static/media/AHQ-test-script.6bc6c3adba2082e28a93.jpg",
     "static/media/u11.png": "/sonu-portfolio/static/media/u11.287a1c055123172846e1.png",
-    "static/media/Sonu Lodhi - CV.pdf": "/sonu-portfolio/static/media/Sonu Lodhi - CV.d583224955195a0c8981.pdf",
     "static/media/login-page.png": "/sonu-portfolio/static/media/login-page.5784043f6b81397c6bb8.png",
     "static/media/ahq-dashboard.jpg": "/sonu-portfolio/static/media/ahq-dashboard.82c5fcd48ef2e3b9cbda.jpg",
+    "static/media/Sonu Lodhi - CV.pdf": "/sonu-portfolio/static/media/Sonu Lodhi - CV.da1fa13fac912deb91ff.pdf",
     "static/media/u4.png": "/sonu-portfolio/static/media/u4.36dace12ec4472e192cc.png",
     "static/media/profile.png": "/sonu-portfolio/static/media/profile.2dc85bdba9d0f86a5de3.png",
     "static/media/p56.png": "/sonu-portfolio/static/media/p56.d48bfa183f97627fc138.png",
@@ -86,11 +86,11 @@
     "static/media/white-logo.svg": "/sonu-portfolio/static/media/white-logo.71215e9f39facf41ce2c0e3353a458f5.svg",
     "index.html": "/sonu-portfolio/index.html",
     "main.7e541609.css.map": "/sonu-portfolio/static/css/main.7e541609.css.map",
-    "main.e3b72c7c.js.map": "/sonu-portfolio/static/js/main.e3b72c7c.js.map",
+    "main.a20c4de2.js.map": "/sonu-portfolio/static/js/main.a20c4de2.js.map",
     "787.18271493.chunk.js.map": "/sonu-portfolio/static/js/787.18271493.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7e541609.css",
-    "static/js/main.e3b72c7c.js"
+    "static/js/main.a20c4de2.js"
   ]
 }
